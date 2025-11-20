@@ -114,6 +114,8 @@ from RCTM.pipelines.RCTM_model_pipeline import RCTMPipeline
 pipe=RCTMPipeline(config_filename='/home/amullen/Rangeland-Carbon/examples/example_configs/test_config.yaml')
 pipe.run_RCTM()
 ```
-## Citing this work
+## Attribution statement (required):
 
-Xia, Y., Sanderman, J., Watts, J.D. et al. (in review). Coupling Remote Sensing with a Process Model for the Simulation of Rangeland Carbon Dynamics. 
+If you utilize this model, please include the following attribution statement: 
+   " The RangeSTAR model was developed by a team of researchers at Woodwell Climate Research Center and was funded by {XYZ}. For more details on model development and deployment, refer to: Xia,    Y., Sanderman, J., Watts, J.D., Machmuller, M.B., Mullen, A.L., Rivard, C., Endsley, A., Hernandez, H., Kimball, J., Ewing, S.A. and Litvak, M., 2025. Coupling remote sensing with a process 
+   model for the simulation of rangeland carbon dynamics. Journal of Advances in Modeling Earth Systems, 17(3), p.e2024MS004342."
