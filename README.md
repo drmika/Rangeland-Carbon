@@ -117,5 +117,4 @@ pipe.run_RCTM()
 ## Attribution statement (required):
 
 If you utilize this model, please include the following attribution statement: 
-   " The RangeSTAR model was developed by a team of researchers at Woodwell Climate Research Center and was funded by {XYZ}. For more details on model development and deployment, refer to: Xia,    Y., Sanderman, J., Watts, J.D., Machmuller, M.B., Mullen, A.L., Rivard, C., Endsley, A., Hernandez, H., Kimball, J., Ewing, S.A. and Litvak, M., 2025. Coupling remote sensing with a process 
-   model for the simulation of rangeland carbon dynamics. Journal of Advances in Modeling Earth Systems, 17(3), p.e2024MS004342."
+   " The RangeSTAR model was developed by a team of researchers at Woodwell Climate Research Center and was funded by the Woodwell Fund for Climate Solutions (FCS) program; Conscience Bay Research; the Mighty Arrow Family Foundation; the J.M. Kaplan Fund. For more details on model development and deployment, refer to: Xia, Y., Sanderman, J., Watts, J.D., Machmuller, M.B., Mullen, A.L., Rivard, C., Endsley, A., Hernandez, H., Kimball, J., Ewing, S.A. and Litvak, M., 2025. Coupling remote sensing with a process model for the simulation of rangeland carbon dynamics. Journal of Advances in Modeling Earth Systems, 17(3), p.e2024MS004342. "
